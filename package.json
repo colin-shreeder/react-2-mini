@@ -5,6 +5,7 @@
   "proxy": "http://localhost:4001",
   "main": "server/index.js",
   "dependencies": {
+    "express": "^4.17.1",
     "react": "^15.5.4",
     "react-dom": "^15.5.4"
   },
